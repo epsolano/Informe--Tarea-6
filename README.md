@@ -76,13 +76,30 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/212210868-3199cf7f-c66a-457a-88da-1cb4c2f0c95f.png)**
 
+**SECCIÓN 11-8**
 
+***Voltajes superpuestos de cd y de ca***
 
+**![image](https://user-images.githubusercontent.com/116835707/212224308-5a0fcf43-ced9-4dca-b566-61a1176514c1.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212224447-cf72b4a6-86c0-4c8c-8c7d-7c84205f08a9.png)**
 
+**SECCIÓN 11-9**
 
+***Formas de onda sinusoidales***
 
+**![image](https://user-images.githubusercontent.com/116835707/212224588-324044c8-a7b4-42f8-82f3-e1d1201ae052.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212224669-f9f75bcd-e2ab-4b9f-988c-bc5c1d8922e1.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212224782-a1746a6d-04d3-4cdf-b41e-5ed0b9750a62.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212224841-38676f88-abcb-4acb-bd09-8763e0ca2331.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212224908-7c9c817f-2e60-4ed6-b599-49321cbabde2.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212225033-8cfdbc21-310c-427c-8cfa-c4c961fa01e3.png)**
 
+**SECCIÓN 11-10**
 
+***El osciloscopio***
+
+**![image](https://user-images.githubusercontent.com/116835707/212225192-d31ab386-4368-4816-bd2d-32a7447db9e6.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212225610-adbb67e8-7875-42a1-8786-db008fec6677.png)**
 
 
 

@@ -170,29 +170,23 @@
 **![image](https://user-images.githubusercontent.com/116835707/212231682-13b93cbe-2495-4666-8ce5-3619be548c22.png)**
 **![image](https://user-images.githubusercontent.com/116835707/212231733-8e76a924-21ac-451c-a223-260ace0e5b5f.png)**
 
+**SECCIÓN 12-7**
 
+***Aplicaciones de los capacitadores***
 
+**![image](https://user-images.githubusercontent.com/116835707/212232074-8aed3fb8-5ebf-42cd-8325-95b3860a588e.png)**
 
+**SECCIÓN 12-8**
 
+***Circuitos de capacitador conmutado***
 
+**![image](https://user-images.githubusercontent.com/116835707/212232398-7c789aa9-b71b-4437-8b61-ae78ecdfc3ca.png)***
 
+***Localización de fallas y análisis con Multisim***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**![image](https://user-images.githubusercontent.com/116835707/212232502-66feb587-180a-457b-b934-00238395babb.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212232642-a2652c5a-392d-447c-9052-d19c7626aa34.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212232703-34da3b6c-006e-4572-82d4-2f5b8e429cbc.png)**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

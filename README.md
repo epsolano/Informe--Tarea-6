@@ -27,7 +27,7 @@
 
 # Capítulo 11
 
-# SECCIÓN 11-1
+**SECCIÓN 11-1
 
 ***La forma de onda sinusoidal***
 

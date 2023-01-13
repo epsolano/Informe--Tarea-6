@@ -29,7 +29,7 @@
 
 # SECCIÓN 11-1
 
-* La forma de onda sinusoidal
+***La forma de onda sinusoidal***
 
 **![image](https://user-images.githubusercontent.com/116835707/212208815-d0615e7f-1915-44eb-9dc6-97b5c4f3312b.png)**
 **![image](https://user-images.githubusercontent.com/116835707/212208906-d97ae612-5916-4693-bccb-add01ec4e9eb.png)**

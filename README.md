@@ -25,7 +25,7 @@
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-**Capítulo 11**
+# Capítulo 11**
 
 # SECCIÓN 11-1
 

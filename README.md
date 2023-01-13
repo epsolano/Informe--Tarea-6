@@ -67,7 +67,7 @@
 
 ***Introducción a los fasores***
 
-**![image](https://user-images.githubusercontent.com/116835707/212210589-9d3e55a4-adfa-4cbf-b735-f823296d935e.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212212211-cfd84a3e-91bd-42fe-af4c-17798921fa84.png)**
 **![image](https://user-images.githubusercontent.com/116835707/212210705-4d7e5cc0-2a39-49f9-be10-eca8f4de163f.png)**
 
 **SECCIÓN 11-7**

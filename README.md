@@ -234,10 +234,30 @@ Leer
 
 ![image](https://user-images.githubusercontent.com/116835707/212596807-8fa137bd-c779-4689-983e-803b78b38208.png)
 
+**![image](https://user-images.githubusercontent.com/116835707/212596901-921373b0-67af-49c5-9c5f-45b89ccdae1b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212596961-b305797f-e40c-4d1d-9622-8da2286c2616.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212596996-9d440add-0414-4c17-b14d-00725d95fdd0.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597040-8daf32c6-be16-4497-9a64-673764029c1f.png)
 
 **SECCIÓN 12-4**
 
 ***Capacitores en paralelo***
+
+**![image](https://user-images.githubusercontent.com/116835707/212597077-3ac81fca-d1c6-4cad-9b89-b62019c01fa3.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212597112-08070a59-8e9d-47ca-b91d-84a426b9b0db.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597152-22815d22-6da9-45c3-8e31-73cb92932052.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597246-1fa6d02c-039f-456e-9361-6e1fe554e91e.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212597365-5fc69190-6e92-43f6-a75d-fef14b7455f9.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597281-a1ee1fc3-8a97-4356-a1c2-3733e53ec6eb.png)
+
 
 
 **SECCIÓN 12-5**

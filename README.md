@@ -13,13 +13,31 @@
 **1. OBJETIVOS**
 
 **1.1  OBJETIVO GENERAL**
-
-
+Leer 
 **1.2  OBJETIVOS ESPECIFICOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**
+# Capítulo 11
+
+![image](https://user-images.githubusercontent.com/116835707/212590183-364c0b9c-90a1-4af0-8272-f21bc30f06b1.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590299-624337a2-c210-48b2-97a8-f71ba4e2206f.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590264-04a73318-06b0-4c29-958a-a61209cbc114.png)
+
+# Capítulo 12
+
+![image](https://user-images.githubusercontent.com/116835707/212590387-32d39d4c-adf8-4d3b-b7a6-48fce3c718ea.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590395-7743519c-5c11-4f8d-a982-a2100b3de3b8.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590920-84387fd0-2dab-45e4-9cc7-a98ed298a027.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590955-f012b083-8f2c-474e-ad9e-726c30c7a4b0.png)
+
+![image](https://user-images.githubusercontent.com/116835707/212590971-2cecdbf6-e0a7-4c77-a78e-e6615b8bb64f.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,8 +49,13 @@
 
 ***La forma de onda sinusoidal***
 
-**![image](https://user-images.githubusercontent.com/116835707/212208815-d0615e7f-1915-44eb-9dc6-97b5c4f3312b.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212208906-d97ae612-5916-4693-bccb-add01ec4e9eb.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212591719-8ca92c66-dfb5-4e27-bdad-ad25910a3f0c.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212591759-7565f168-e106-471c-b62a-c84d4f7b78be.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212591794-46f91c5e-b002-4e41-a3cf-37c31c23edda.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212591818-5fe4d537-bdc7-4883-b6a8-9e2db1134da6.png)
 
 **SECCIÓN 11-2**
 

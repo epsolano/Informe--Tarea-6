@@ -61,74 +61,122 @@ Leer
 
 ***Fuentes de voltaje sinusoidal***
 
-**![image](https://user-images.githubusercontent.com/116835707/212209190-c00bf745-7121-487d-85ea-be3309c718dc.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212209279-e0eb0e72-8d3f-4015-9152-652bcd3cc825.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592055-e5f972cd-42e8-4c46-905c-4c4713846bc6.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592112-9f3af0ef-28c4-422e-94ab-962aa0480537.png)
 
 **SECCIÓN 11-3**
 
 ***Valores sinusoidales de voltaje y corriente***
 
-**![image](https://user-images.githubusercontent.com/116835707/212209623-f815d6e2-a2d1-4b7e-acdd-5d6535cb0beb.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592183-80db0986-f06f-46ae-b957-7d9dd5d03aae.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592213-41368792-a6a9-4dc4-b566-0edaa2c53771.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212592257-b7dc076a-202f-4608-8448-84e8e987f179.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592302-9f3dca89-67bb-48bd-9cc2-4c91b90b14d8.png)
 
 **SECCIÓN 11-4**
 
 ***Medición angular de una onda seno***
 
-**![image](https://user-images.githubusercontent.com/116835707/212209703-78a77839-9c9c-4662-ae48-71a52f3bfdac.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212209940-f9dbde82-a133-4b97-b822-8669f882f89e.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212210026-13ef9796-46a6-494e-9735-cdf85fdb5d94.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592364-dd0874de-2d9d-49b6-ab41-f1d5e0206c35.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592406-739b2083-bdb4-4c90-9ba7-28b456254f9e.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212592455-c93fab2f-c141-44e3-b4e2-1774fee1094e.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592486-2b007db0-14f7-41c4-84cf-bf8a5d759d49.png)
 
 **SECCIÓN 11-5**
 
 ***La fórmula de la onda seno***
 
-**![image](https://user-images.githubusercontent.com/116835707/212210238-3445729d-80a6-4806-84f4-5389695baae4.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212210319-67606908-a922-4663-8df3-7d05ae097aab.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212210401-4ac08be8-1fb5-4c9f-8ecc-3ba80f00018c.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592545-310be8ce-add5-40cd-9e20-e11aff06e92c.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592598-9eb1f68c-162f-4765-b273-d6a537345990.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212592648-133ae736-06ae-4b6e-8645-c7acbc292c26.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592686-66975295-19ac-4bd8-8435-16021dabbc72.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212592715-d6391e3a-8892-46eb-ae50-e38229a14e94.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592755-040f979e-553a-498c-8e4e-edc54a8d8283.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592795-b5433a3c-5574-4acf-9664-1954f4369e00.png)
 
 **SECCIÓN 11-6**
 
 ***Introducción a los fasores***
 
-**![image](https://user-images.githubusercontent.com/116835707/212212211-cfd84a3e-91bd-42fe-af4c-17798921fa84.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212210705-4d7e5cc0-2a39-49f9-be10-eca8f4de163f.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212592840-eec535cb-6e51-472f-959f-e477a18246c2.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212592891-e1d33ef5-0320-4575-9947-70a35641725f.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212592949-8424823a-1422-407b-89b0-3f9bf2858185.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593023-c55db30e-5bbf-4081-9a88-7efaf4ce387f.png)
 
 **SECCIÓN 11-7**
 
 ***Análisis de circuitos de ca***
 
-**![image](https://user-images.githubusercontent.com/116835707/212210868-3199cf7f-c66a-457a-88da-1cb4c2f0c95f.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212593165-e1d908e0-41e4-464f-bb5b-b2f97921efb0.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593290-737fab5f-bd8d-43d3-8112-a4ebc9d1e139.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212593322-b2ee6e67-c921-4a09-b9c1-ee7f4bf02b86.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593381-5fca83d7-8bd1-409a-a801-d2a262dbf51c.png)
 
 **SECCIÓN 11-8**
 
 ***Voltajes superpuestos de cd y de ca***
 
-**![image](https://user-images.githubusercontent.com/116835707/212224308-5a0fcf43-ced9-4dca-b566-61a1176514c1.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212224447-cf72b4a6-86c0-4c8c-8c7d-7c84205f08a9.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212593431-eecf5d19-ace3-4d92-867d-e6f6d7f65a47.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593465-aa67e0c6-ffef-4f9c-a285-7d233b69e94a.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212593573-2aaab2d0-6829-4a36-83d8-e3a94dd2b20c.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593608-a1bfdd11-7766-4191-bb4f-27ff4581ef13.png)
 
 **SECCIÓN 11-9**
 
-***Formas de onda sinusoidales***
+***Formas de onda no sinusoidales***
 
-**![image](https://user-images.githubusercontent.com/116835707/212224588-324044c8-a7b4-42f8-82f3-e1d1201ae052.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212224669-f9f75bcd-e2ab-4b9f-988c-bc5c1d8922e1.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212224782-a1746a6d-04d3-4cdf-b41e-5ed0b9750a62.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212224841-38676f88-abcb-4acb-bd09-8763e0ca2331.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212224908-7c9c817f-2e60-4ed6-b599-49321cbabde2.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212225033-8cfdbc21-310c-427c-8cfa-c4c961fa01e3.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212593736-ecb60c15-c337-45f9-93f6-aa9d93317f32.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593779-af29b383-cdc4-4b91-b6d4-1c4b62d0f164.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212593827-353af4a6-8358-4d8c-bcbe-64745202193a.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212593858-b7ea7fcd-9346-4d39-a6fb-ef6bdd0c664b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212593948-d6c100b6-b396-46d3-9f76-e2352fa0edaf.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212593987-f41b1fcc-d351-4831-870a-76548f0965a3.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212594023-6e2477f9-22f0-4cf9-a431-1437f7e11e91.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212594082-5b700f57-9bbb-4d92-89ad-f231c5a123e5.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212594132-d0c1b6e2-6d8c-4724-ba8a-3649bb29dd02.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212594209-62bd966b-df16-4d41-87f0-3eeed95c2842.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212594229-9a5e1819-6494-4c5a-96ce-5c3b605e4733.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212594268-c3f2eb66-bfdf-4125-abe0-5315b1fc46af.png)
 
 **SECCIÓN 11-10**
 
 ***El osciloscopio***
 
-**![image](https://user-images.githubusercontent.com/116835707/212225192-d31ab386-4368-4816-bd2d-32a7447db9e6.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212225610-adbb67e8-7875-42a1-8786-db008fec6677.png)**
+**![image](https://user-images.githubusercontent.com/116835707/212594432-9a1e0414-3663-479a-988f-a3abe8fa6d52.png)**
 
-***Localización y análisis de fallas con Multisim***
-
-**![image](https://user-images.githubusercontent.com/116835707/212225859-9fd46112-9ce5-423f-b768-b4da11a8ccd7.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212225903-dbcdb242-280b-4305-abcb-e7c1f9cc243f.png)**
-**![image](https://user-images.githubusercontent.com/116835707/212225947-741806a4-b3d1-4781-a471-410bfd8486fe.png)**
+![image](https://user-images.githubusercontent.com/116835707/212594524-c58cd57c-317c-450f-9a27-e9aff75d0ccd.png)
 
 # Capítulo 12
 

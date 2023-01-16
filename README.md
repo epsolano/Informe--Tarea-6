@@ -13,9 +13,14 @@
 **1. OBJETIVOS**
 
 **1.1  OBJETIVO GENERAL**
-Leer 
+Leer el capítulo 11 y 12 del libro Principios de circuitos eléctricos, Octava edición, Floyd para conocer y comprender los conceptos sobre introducción a la corrienta y al voltaje alternos y capacitores.
+
 **1.2  OBJETIVOS ESPECIFICOS**
 
+* Entender las características que un circuito alterno posee.
+* Identificar los diferentes tipos de ondas.
+* Realizar los ejercicios de ambos capítulos para reforzar los conocimientos adquiridos de la lectura realizada.
+* Aprender las características de los capacitadores.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**

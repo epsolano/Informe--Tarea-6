@@ -258,26 +258,87 @@ Leer
 
 ![image](https://user-images.githubusercontent.com/116835707/212597281-a1ee1fc3-8a97-4356-a1c2-3733e53ec6eb.png)
 
-
-
 **SECCIÓN 12-5**
 
 ***Capacitores en circuitos de cd***
+
+**![image](https://user-images.githubusercontent.com/116835707/212597437-7cbd996a-d249-44b2-be79-1929830998f6.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597492-fbfb0b66-33b4-4e8d-b589-285135d5a0e0.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597539-e2e4d256-3188-459d-a812-65af09ba1831.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597579-249bce05-b516-4051-b37a-e4701b480142.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597637-49bc21a3-bded-42d4-992f-ec71e7c098c7.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597687-687dc7dd-10e3-49bb-989c-56d2f71c0d6d.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597730-576ea102-bfe9-4e72-9caf-8e63d333ad7a.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597765-3ae1922a-5c21-4f51-bc4c-9ac6e322012d.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597804-9cd3dba3-a834-44a2-89c7-62367ba758be.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212597855-f1c23503-455d-432f-a25c-2f11740237a6.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212597890-aa94974a-2229-485e-96d0-50fb140ff058.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212597960-86bdb73d-b75f-4914-a141-e8587041bc3c.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212598006-13f1ec25-188d-41e3-bceb-3b2b43c79a05.png)
 
 
 **SECCIÓN 12-6**
 
 ***Capacitores en circuitos de ca***
 
+**![image](https://user-images.githubusercontent.com/116835707/212598123-66750575-e85e-4cb4-bcdd-a247ade2da8f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212598184-00628112-9e90-42ef-a19b-acf95c91e285.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212598248-77fbf6b5-dd2f-44fc-9a80-a13cb62166e9.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212598329-7c7a4b86-7b21-4415-8596-e934c5a8535f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212598381-fa7b3673-ac23-4903-bb8d-0c42a73c109e.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212598423-b58d3906-f811-4596-9aac-187c8dd6d78f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212598494-e8dcc3da-72d6-4fc5-89a1-de1021740a38.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212598558-0316419e-2c30-4285-b075-68b8d736b91a.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212598688-4d8cffa8-c4ac-496f-8fbd-2309c063b521.png)
+![image](https://user-images.githubusercontent.com/116835707/212598746-83311cbc-3e29-4d24-9520-d9fed8ad271a.png)
+![image](https://user-images.githubusercontent.com/116835707/212598768-78430eab-7fcb-4a02-b662-28210bdcb9c8.png)
+![image](https://user-images.githubusercontent.com/116835707/212598808-1d40b53b-0583-49f1-ab1b-80804c951786.png)
+![image](https://user-images.githubusercontent.com/116835707/212598844-3094070e-7c83-44b7-87d8-749c7563c235.png)
+![image](https://user-images.githubusercontent.com/116835707/212598870-6ea3a15f-2611-4778-b880-3a0f31289e9b.png)
+![image](https://user-images.githubusercontent.com/116835707/212598905-e40c9ae1-d168-4ebb-98b9-cf67b0c341bf.png)
+
+**![image](https://user-images.githubusercontent.com/116835707/212598974-e03e9fda-dfb2-49d0-8f66-a86840a2a81f.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/212599014-68e6f56c-b6c0-490b-8bce-667128d22c0c.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212599140-cbb0c44c-522a-4a7e-bd0a-cbc065187f29.png)
+![image](https://user-images.githubusercontent.com/116835707/212599188-d4f0da26-d33a-40d5-aa62-640375d70091.png)
 
 **SECCIÓN 12-7**
 
 ***Aplicaciones de los capacitadores***
 
+**![image](https://user-images.githubusercontent.com/116835707/212599250-f0e74a02-7c7c-4be1-9ccc-dcc306c870e3.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212599305-6ace96ba-803d-485e-a387-0c1218ae91b0.png)
 
 **SECCIÓN 12-8**
 
 ***Circuitos de capacitador conmutado***
+
+**![image](https://user-images.githubusercontent.com/116835707/212599353-1e068201-bd15-41ad-a389-a07cc79d64d5.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/212599390-dd0207aa-b9a7-49f6-b993-310542cd306d.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

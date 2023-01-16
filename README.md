@@ -17,7 +17,7 @@ Leer el capítulo 11 y 12 del libro Principios de circuitos eléctricos, Octava 
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Entender las características que un circuito alterno posee.
+* Identificar los tipos de valores sinusoidales de voltaje y corriente.
 * Identificar los diferentes tipos de ondas.
 * Realizar los ejercicios de ambos capítulos para reforzar los conocimientos adquiridos de la lectura realizada.
 * Aprender las características de los capacitadores.
@@ -353,7 +353,11 @@ Leer el capítulo 11 y 12 del libro Principios de circuitos eléctricos, Octava 
 
 **5. CONCLUSIONES**
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* El capacitador es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que a su vez guarda energía. La medida de la capacidad de almacenamiento de energía de un capacitador es su capacitancia. Cuando se aplica una señal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. Esta oposición a la corriente se llama reactancia capacitiva.
+* Para realizar los ejercicios y problemas propuestos en los capítulos 11 y 12 , es necesario conocer los conceptos  de ondas sinusoidal, capacitores para obtener los resultados correctos.
+* Existen cinco formas de expresar los valores de onda seno, los cuales son: Valor instatáneo, Valor pico, Valor pico a pico Valor RMS y Valor promedio.
+* Existen diferentes tipos de ondas no sinusoidales basado en su forma entre las que se encuentran: Onda pulsantes, Ondas cuadradas, triangulares y dientes de sierra. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
 
